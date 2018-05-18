@@ -1,4 +1,16 @@
 SNAPSHOP An extension of the Target Mobile application in which a customer can take a picture of what an object is
 that they are wishing to shop for on Target through the Target app, and then be able to find items that either are
 similar to that object, is the exact object, or even both! This will allow customer's ease of shopping in having the
-ability to instantly find things that they are interested in seeing without the hassle of searching for the item manually.  
+ability to instantly find things that they are interested in seeing without the hassle of searching for the item manually.
+
+
+*************CODE OUTLINE*****************
+
+
+1. Takes picture and stores into variable
+
+2. Takes stored picture and run it through Google API to yield keywords
+
+3. Takes the keywords and searches though Target's database
+
+4. Overall returns pictures of similar items that match the keywords
