@@ -9,7 +9,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Dancing Script';
-  font-size: 500%;
+  font-size: 430%;
   color: red;
 }
 
@@ -38,6 +38,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
 
   .center {
       position: absolute;
