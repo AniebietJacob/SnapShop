@@ -39,13 +39,6 @@
   transform: translate(-50%, -50%);
 }
 
-.fake{
-  position: absolute;
-  top: 80%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-
-  }
   .center {
       position: absolute;
       top: 47%;
