@@ -15,7 +15,7 @@
 
 
 
-.para1{
+.para1 h1{
   font-family: 'Dancing Script';
   position: absolute;
   top: 71%;
@@ -23,7 +23,7 @@
   transform: translate(-50%, -50%);
 }
 
-.para2{
+.para2 h1{
   font-family: 'Dancing Script';
   position: absolute;
   top: 75%;
@@ -31,7 +31,7 @@
   transform: translate(-50%, -50%);
 }
 
-.para3{
+.para3 h1{
   font-family: 'Dancing Script';
   position: absolute;
   top: 79%;
