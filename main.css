@@ -3,10 +3,44 @@
     text-align: center;
   }
 
+.title h1{
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Dancing Script';
+  font-size: 500%;
+  color: red;
+}
+
+
+
+.para{
+  font-family: 'Dancing Script';
+  position: absolute;
+  top: 77%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.fake{
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  }
   .center {
       position: absolute;
-      top: 50%;
-      left: 50%;
+      top: 47%;
+      left: 62%;
       transform: translate(-50%, -50%);
-      color: black;
+      opacity: 0;
+  }
+
+  .target{
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
   }
