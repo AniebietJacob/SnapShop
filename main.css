@@ -23,22 +23,6 @@
   transform: translate(-50%, -50%);
 }
 
-.para2 h1{
-  font-family: 'Dancing Script';
-  position: absolute;
-  top: 75%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.para3 h1{
-  font-family: 'Dancing Script';
-  position: absolute;
-  top: 79%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 
   .center {
       position: absolute;
